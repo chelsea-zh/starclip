@@ -42,4 +42,20 @@ Because there is quite literally nothing but leds on this, it is very empty and 
 
 Also just realized I have forgotten to commit to Github since yesterday oops :smiley:
 
+Thinking about how to make the sparkle motion mini functional aka what I need for power which I have determined is:
+
+- lipo battery
+- power booster (bc battery is 3.7V, leds are 5V)
+- slide switch
+
+I have acquired a slide switch yayy I do not need to order a single slide switch :D
+
+Unfortunately my new to hardware brain could not figure out how to put these together so ...
+
+Spending too much time trying to understand how to wire this stuff. I dont understand batteries rip.
+
+This took a really long time to think about I swear :sob:
+![project schematic](image-2.png)
+I don't know if I planned it correctly but hopefully!
+
 Time spent today: 
