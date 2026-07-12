@@ -16,7 +16,7 @@ Started schematic for project, but I did not understand how connecters work in s
 Pcb itself will be star shaped for the clip, just connecting leds together and have 3 holes to connect wires to. There exists some sense of rotational symmetry, as such same pcb can be used for both left and right star clip, just rotated. Star drawn with kaleidescope symmetry, imported graphic into Kicad to trace on edge cuts later.
 
 My beautiful star shape:
-![wonderful empty star shape](star.png)
+![wonderful empty star shape](journal-images/star.png)
 
 Accidentally used the wrong symbol in schematic so pins were wrong in the pcb :sob: Had to redo them. There is probably a more efficient way to use Kicad but I don't know how to do that so I have to redo basically most my pcb :smiley: ... work for tmr
 
@@ -32,7 +32,7 @@ Time spent today: 3hr
 
 Hopefully this pcb works :D 
 
-![star led chain pcb](image-1.png)
+![star led chain pcb](journal-images/image-1.png)
 
 Have fixed it and Kicad design rules checker says it works?
 Will be soldering wire directly to holes on the side.
@@ -55,7 +55,7 @@ Unfortunately my new to hardware brain could not figure out how to put these tog
 Spending too much time trying to understand how to wire this stuff. I dont understand batteries rip.
 
 This took a really long time to think about I swear :sob:
-![project schematic](image-2.png)
+![project schematic](journal-images/image-2.png)
 I don't know if I planned it correctly but hopefully!
 
 also I accidentally messed up my github so idk I accidentally pulled before stashing rip I had to redo this
@@ -78,7 +78,7 @@ Star clip measurements bc I don't want to write them down somewhere else :D
 - height (beyond base): 8mm
 - top: 1.2mm
 
-![star casing](image-2.png)
+![star casing](journal-images/image-2.png)
 
 Time spent today: 2h
 
@@ -98,7 +98,7 @@ Thought it was bad yesterday, even worse today ripppp
 
 Ended up just redrawing the star, made it better this time I hope? It should be a correct shape now though, each place where curves intersected I had overlap and trim which ... messes up the curve ... but at least it's a fully constrained shape!
 
-![fixed star casing](image-3.png)
+![fixed star casing](journal-images/image-3.png)
  yayyyy
 
  Time spent today: 2h
@@ -121,8 +121,22 @@ bow measurements:
 omg this was so complicated to think through :sob:
 went through very many different ways of making this work... idk if it does?
 
-welp anyway:
-![base of bow + top for center and bottom flaps](image-4.png)
-![base ofbow + top for wings](image-5.png)
+math .. hopefully i calculated heights correctly
 
- Time spent today: 4
+welp anyway:
+![base of bow + top for center and bottom flaps](journal-images/image-4.png)
+![base ofbow + top for wings](journal-images/image-5.png)
+
+![assembled bow](journal-images/image-6.png)
+
+please don't judge my sketch :smiley: this is already having deleted some things :smiley:
+![very messy sketch](journal-images/image-7.png)
+unfortunatley because it isso messy, it took a long time to actually select where I wanted to extrude :sob:
+
+absolutely disgusting but hopefully it works :smiley:
+![look at inside of center](journal-images/image-8.png)
+
+Then writing readme :D 
+downloading everything ughhh
+
+ Time spent today: 5h
