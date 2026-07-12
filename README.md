@@ -9,12 +9,12 @@ This set consists of one large bow to be placed in the center of the back of the
 ## CAD
 Made in Fusion 360:
 
-![base of bow + top for center and bottom flaps](journal-images/image-4.png)
-![base ofbow + top for wings](journal-images/image-5.png)
+![base of bow + top for center and bottom flaps](https://raw.githubusercontent.com/chelsea-zh/starclip/50b7452087c68fa2ac4d54048c04251ac2972bf7/journal-images/image-4.png)
+![base ofbow + top for wings](https://raw.githubusercontent.com/chelsea-zh/starclip/50b7452087c68fa2ac4d54048c04251ac2972bf7/journal-images/image-5.png)
 
-![assembled bow](journal-images/image-6.png)
+![assembled bow](https://raw.githubusercontent.com/chelsea-zh/starclip/50b7452087c68fa2ac4d54048c04251ac2972bf7/journal-images/image-6.png)
 
-![assembled star](journal-images/image-star.png)
+![assembled star](https://raw.githubusercontent.com/chelsea-zh/starclip/50b7452087c68fa2ac4d54048c04251ac2972bf7/journal-images/image-star.png)
 
 Each part consists of a flat base and an extruded top that fit into each other.
 
@@ -22,10 +22,10 @@ Each part consists of a flat base and an extruded top that fit into each other.
 Made in KiCad:
 
 The project schematic is as follows:
-![project-schematic](journal-images/schematic.png)
+![project-schematic](https://raw.githubusercontent.com/chelsea-zh/starclip/50b7452087c68fa2ac4d54048c04251ac2972bf7/journal-images/schematic.png)
 
 While the majority of the project will be hand wired, the stars will be PCBs for ease of assembly.
-![star pcb](journal-images/image-1.png)
+![star pcb](https://raw.githubusercontent.com/chelsea-zh/starclip/50b7452087c68fa2ac4d54048c04251ac2972bf7/journal-images/image-1.png)
 
 In total, following a roughly half inch spacing between LEDs in the bow, there will be 18 LEDs in each half of the bow, wrapping around each wing and bottom tail. Each star will have 6 LEDs, ordered such that the light can move in a linear pattern across the star.
 
