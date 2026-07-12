@@ -58,4 +58,71 @@ This took a really long time to think about I swear :sob:
 ![project schematic](image-2.png)
 I don't know if I planned it correctly but hopefully!
 
-Time spent today: 
+also I accidentally messed up my github so idk I accidentally pulled before stashing rip I had to redo this
+
+Time spent today: 3h
+
+Man I feel like I spend so much longer just searching things up and not understanding things :smiley:
+this hardware stuff hard man
+
+## July 3: cad
+
+Fusion 360 is the most frustrating program I have ever used omg :sob:
+
+Took too long to plan :pensive: learned about circular placement and mirroring in sketch! but bezier curves are annoying rip
+
+Star clip measurements bc I don't want to write them down somewhere else :D
+- base: 2mm
+- wall: 2.5mm
+- lip: 1mm (recess 1.15mm)
+- height (beyond base): 8mm
+- top: 1.2mm
+
+![star casing](image-2.png)
+
+Time spent today: 2h
+
+## July 4: continuing cad ):
+
+Have realized I should probably change how this works, with the base being flat and the top having the walls.
+
+So had to redo this ):
+
+also actually I offset original sketch by 1mm for more clearance for pcb
+
+Actually going insane because I'm spending like an hour just trying to offset this singular star shape and it's just not allowing me to select lines, or its not letting me select shapes because these points are white (unconnected) except there is literally only one point so how is it unconnected :sob:
+
+Going through exporting as a sketch and importing it again just to try and make this shape correct but it's still not working :sob:
+
+Thought it was bad yesterday, even worse today ripppp
+
+Ended up just redrawing the star, made it better this time I hope? It should be a correct shape now though, each place where curves intersected I had overlap and trim which ... messes up the curve ... but at least it's a fully constrained shape!
+
+![fixed star casing](image-3.png)
+ yayyyy
+
+ Time spent today: 2h
+
+ ## July 12: cad :O
+
+ Drawing the bow itself now :D
+ Sketches took a while, originally wanted it to bend a bit but that's too hard so it's staying flat.
+
+bow measurements:
+- base: 2mm
+- wall: 2.5mm
+- lip: 1mm (recess 1.25mm)
+- height (beyond base): 
+    - center: 12mm
+    - wing: 10mm
+    - flap: 6mm
+- top: 1.2mm
+
+omg this was so complicated to think through :sob:
+went through very many different ways of making this work... idk if it does?
+
+welp anyway:
+![base of bow + top for center and bottom flaps](image-4.png)
+![base ofbow + top for wings](image-5.png)
+
+ Time spent today: 4
